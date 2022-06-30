@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tay-souza
-- 🌱 I’m currently learning programming from scratch 
+- 🌱 I’m currently learning to programming from scratch 
 - 💞️ I’m looking to collaborate as soon as I improve my skills
 - 📫 You can reach me by email tatie.alcantara@gmail.com
 <!---
